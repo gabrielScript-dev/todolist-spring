@@ -1,4 +1,4 @@
-package br.com.gabriel.todolist.servlet;
+package br.com.gabriel.todolist.auth;
 
 import at.favre.lib.crypto.bcrypt.BCrypt;
 import br.com.gabriel.todolist.model.User;
